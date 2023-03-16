@@ -1,0 +1,1 @@
+<view class="news"><news-item wx:if="{{b}}" bindnewDetail="{{a}}" u-i="451ea1fc-0" bind:__l="__l" u-p="{{b}}"></news-item></view>

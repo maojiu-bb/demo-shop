@@ -1,0 +1,24 @@
+{
+	"status": 200,
+	"data": [{
+			"title": "黑马超市",
+			"icon": "iconfont icon-ziyuan",
+			"path": "/pages/goods/goods"
+		},
+		{
+			"title": "联系我们",
+			"icon": "iconfont icon-guanyuwomen",
+			"path": "/pages/contact/contact"
+		},
+		{
+			"title": "社区图片",
+			"icon": "iconfont icon-tupian",
+			"path": "/pages/pics/pics"
+		},
+		{
+			"title": "学习视频",
+			"icon": "iconfont icon-shipin",
+			"path": "/pages/videos/videos"
+		}
+	]
+}

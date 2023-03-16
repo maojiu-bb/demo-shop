@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,w as t,i as e,d as o}from"./index-db1ec272.js";const r=s({},[["render",function(s,r){const d=e;return a(),n(d,null,{default:t((()=>[o(" 学习视频 ")])),_:1})}]]);export{r as default};

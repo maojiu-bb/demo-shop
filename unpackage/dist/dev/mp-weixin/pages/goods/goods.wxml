@@ -1,0 +1,1 @@
+<view><goods-list wx:if="{{b}}" bindgoGoodsDetail="{{a}}" u-i="62d46eec-0" bind:__l="__l" u-p="{{b}}"></goods-list><view wx:if="{{c}}" class="bottom">-----没有更多数据了-----</view></view>

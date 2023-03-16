@@ -1,0 +1,1 @@
+<view class="newDetail"><view class="title">{{a}}</view><view class="info"><text>发表时间：{{b}}</text><text>浏览：{{c}}</text></view><view class="content"><rich-text nodes="{{d}}"></rich-text></view></view>

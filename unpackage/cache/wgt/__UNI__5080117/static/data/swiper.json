@@ -1,0 +1,19 @@
+{
+	"status": 200,
+	"data": [{
+			"id": 1,
+			"url": "http://www.itcast.cn/subject/phoneweb/index.html",
+			"img": "http://m.itheima.com/images/slidead/mobile/20191213180241750x410.jpg"
+		},
+		{
+			"id": 2,
+			"url": "http://www.itcast.cn/subject/phoneweb/index.html",
+			"img": "http://m.itheima.com/images/slidead/mobile/20191210154717750-410.jpg"
+		},
+		{
+			"id": 3,
+			"url": "http://www.itcast.cn/subject/phoneweb/index.html",
+			"img": "http://m.itheima.com/images/slidead/mobile/20190327135101750x410-%E4%BC%A0%E6%99%BA%E9%BB%91%E9%A9%AC%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%B9%BB%E7%81%AF.jpg"
+		}
+	]
+}
